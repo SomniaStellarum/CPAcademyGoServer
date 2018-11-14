@@ -1,2 +1,3 @@
 # CPAcademyGoServer
-The Go Server being developed for the CPAcademy. Week 6
+
+See the active fork @ https://github.com/cryptoprimitive/Toastytrade
